@@ -1,0 +1,23 @@
+{
+  "name": "lcs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nholder06/lcs-api.git"
+  },
+  "author": "Nicole Holder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nholder06/lcs-api/issues"
+  },
+  "homepage": "https://github.com/nholder06/lcs-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
